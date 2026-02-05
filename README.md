@@ -285,5 +285,5 @@ Em todas as telas implementei:
 Projeto desenvolvido para fins de avaliação técnica.
 
 **Desenvolvido por Felipe Ferreira**
-**Tempo de desenvolvimento: 52 horas**
+**Tempo de desenvolvimento: 12 horas**
 **Data: Fevereiro 2025**
