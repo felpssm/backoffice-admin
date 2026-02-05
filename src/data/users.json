@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Felipe Ferreira",
+    "email": "felpss.dev@gmail.com",
+    "role": "admin",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Carlos Santos",
+    "email": "carlos.santos@email.com",
+    "role": "seller",
+    "country": "Portugal",
+    "status": "active",
+    "createdAt": "2024-02-20T14:20:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Mariana Costa",
+    "email": "mariana.costa@email.com",
+    "role": "seller",
+    "country": "Brasil",
+    "status": "inactive",
+    "createdAt": "2024-03-10T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Pedro Oliveira",
+    "email": "pedro.oliveira@email.com",
+    "role": "customer",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-04-05T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Julia Fernandes",
+    "email": "julia.fernandes@email.com",
+    "role": "customer",
+    "country": "Argentina",
+    "status": "active",
+    "createdAt": "2024-05-12T11:30:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Roberto Alves",
+    "email": "roberto.alves@email.com",
+    "role": "seller",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-06-18T08:00:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Beatriz Lopes",
+    "email": "beatriz.lopes@email.com",
+    "role": "customer",
+    "country": "Chile",
+    "status": "inactive",
+    "createdAt": "2024-07-22T13:20:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Felipe Rodrigues",
+    "email": "felipe.rodrigues@email.com",
+    "role": "customer",
+    "country": "Brasil",
+    "status": "active",
+    "createdAt": "2024-08-30T15:10:00Z"
+  }
+]
