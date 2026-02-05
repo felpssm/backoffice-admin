@@ -1,0 +1,125 @@
+[
+  {
+    "id": "ORD-001",
+    "userId": "2",
+    "status": "completed",
+    "items": [
+      {
+        "id": "item-1",
+        "productName": "Produto A",
+        "quantity": 2,
+        "unitPrice": 150.0
+      },
+      {
+        "id": "item-2",
+        "productName": "Produto B",
+        "quantity": 1,
+        "unitPrice": 200.0
+      }
+    ],
+    "total": 500.0,
+    "createdAt": "2024-09-01T10:00:00Z"
+  },
+  {
+    "id": "ORD-002",
+    "userId": "4",
+    "status": "processing",
+    "items": [
+      {
+        "id": "item-3",
+        "productName": "Produto C",
+        "quantity": 3,
+        "unitPrice": 80.0
+      }
+    ],
+    "total": 240.0,
+    "createdAt": "2024-09-15T14:30:00Z"
+  },
+  {
+    "id": "ORD-003",
+    "userId": "5",
+    "status": "completed",
+    "items": [
+      {
+        "id": "item-4",
+        "productName": "Produto D",
+        "quantity": 1,
+        "unitPrice": 350.0
+      },
+      {
+        "id": "item-5",
+        "productName": "Produto E",
+        "quantity": 2,
+        "unitPrice": 125.0
+      }
+    ],
+    "total": 600.0,
+    "createdAt": "2024-10-05T09:20:00Z"
+  },
+  {
+    "id": "ORD-004",
+    "userId": "6",
+    "status": "pending",
+    "items": [
+      {
+        "id": "item-6",
+        "productName": "Produto F",
+        "quantity": 5,
+        "unitPrice": 45.0
+      }
+    ],
+    "total": 225.0,
+    "createdAt": "2024-10-20T16:45:00Z"
+  },
+  {
+    "id": "ORD-005",
+    "userId": "8",
+    "status": "completed",
+    "items": [
+      {
+        "id": "item-7",
+        "productName": "Produto G",
+        "quantity": 1,
+        "unitPrice": 890.0
+      }
+    ],
+    "total": 890.0,
+    "createdAt": "2024-11-10T11:15:00Z"
+  },
+  {
+    "id": "ORD-006",
+    "userId": "2",
+    "status": "cancelled",
+    "items": [
+      {
+        "id": "item-8",
+        "productName": "Produto H",
+        "quantity": 2,
+        "unitPrice": 180.0
+      }
+    ],
+    "total": 360.0,
+    "createdAt": "2024-11-25T13:00:00Z"
+  },
+  {
+    "id": "ORD-007",
+    "userId": "4",
+    "status": "processing",
+    "items": [
+      {
+        "id": "item-9",
+        "productName": "Produto I",
+        "quantity": 4,
+        "unitPrice": 65.0
+      },
+      {
+        "id": "item-10",
+        "productName": "Produto J",
+        "quantity": 1,
+        "unitPrice": 210.0
+      }
+    ],
+    "total": 470.0,
+    "createdAt": "2024-12-08T08:30:00Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "COM-001",
+    "userId": "2",
+    "orderId": "ORD-001",
+    "amount": 50.0,
+    "status": "paid",
+    "createdAt": "2024-09-02T10:00:00Z"
+  },
+  {
+    "id": "COM-002",
+    "userId": "6",
+    "orderId": "ORD-004",
+    "amount": 22.5,
+    "status": "pending",
+    "createdAt": "2024-10-21T09:00:00Z"
+  },
+  {
+    "id": "COM-003",
+    "userId": "2",
+    "orderId": "ORD-003",
+    "amount": 60.0,
+    "status": "paid",
+    "createdAt": "2024-10-06T11:30:00Z"
+  },
+  {
+    "id": "COM-004",
+    "userId": "6",
+    "orderId": "ORD-007",
+    "amount": 47.0,
+    "status": "pending",
+    "createdAt": "2024-12-09T08:45:00Z"
+  }
+]
